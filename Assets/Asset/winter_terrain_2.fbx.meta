@@ -1,79 +1,71 @@
 fileFormatVersion: 2
-guid: 82ec04d14f7f7485fad740bda2a95ed1
+guid: 294818c697429420497aa8997d087892
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: Displacer
-    100002: Displacer_2
-    100004: Displacer_3
-    100006: Displacer_4
-    100008: Landscape
-    100010: Landscape_2
-    100012: Landscape_3
-    100014: Landscape_4
-    100016: Landscape_5
-    100018: Landscape_6
-    100020: Landscape_7
-    100022: Landscape_8
-    100024: Modified_Plane
-    100026: Mountain1
-    100028: Mountain2
-    100030: Mountain3
-    100032: Polygon_Reduction_2
-    100034: Polygon_Reduction_4
-    100036: Polygon_Reduction_6
-    100038: //RootNode
-    100040: Polygon_Reduction_1
-    100042: Polygon_Reduction_3
-    100044: Polygon_Reduction_5
+    100002: Landscape
+    100004: Landscape_2
+    100006: Null
+    100008: Null_1
+    100010: Null_2
+    100012: Null_3
+    100014: Null_4
+    100016: Null_5
+    100018: Polygon_Reduction
+    100020: Polygon_Reduction_2
+    100022: Polygon_Reduction_2_2
+    100024: Polygon_Reduction_2_3
+    100026: Polygon_Reduction_2_4
+    100028: Polygon_Reduction_2_5
+    100030: terrain
+    100032: //RootNode
+    100034: Polygon_Reduction_2_6
     400000: Displacer
-    400002: Displacer_2
-    400004: Displacer_3
-    400006: Displacer_4
-    400008: Landscape
-    400010: Landscape_2
-    400012: Landscape_3
-    400014: Landscape_4
-    400016: Landscape_5
-    400018: Landscape_6
-    400020: Landscape_7
-    400022: Landscape_8
-    400024: Modified_Plane
-    400026: Mountain1
-    400028: Mountain2
-    400030: Mountain3
-    400032: Polygon_Reduction_2
-    400034: Polygon_Reduction_4
-    400036: Polygon_Reduction_6
-    400038: //RootNode
-    400040: Polygon_Reduction_1
-    400042: Polygon_Reduction_3
-    400044: Polygon_Reduction_5
-    2100000: Mat.1
+    400002: Landscape
+    400004: Landscape_2
+    400006: Null
+    400008: Null_1
+    400010: Null_2
+    400012: Null_3
+    400014: Null_4
+    400016: Null_5
+    400018: Polygon_Reduction
+    400020: Polygon_Reduction_2
+    400022: Polygon_Reduction_2_2
+    400024: Polygon_Reduction_2_3
+    400026: Polygon_Reduction_2_4
+    400028: Polygon_Reduction_2_5
+    400030: terrain
+    400032: //RootNode
+    400034: Polygon_Reduction_2_6
+    2100000: Mat.3
+    2100002: Mat
+    2100004: Mat.1
     2300000: Landscape_2
-    2300002: Landscape_4
-    2300004: Landscape_6
-    2300006: Landscape_8
-    2300008: Landscape
-    2300010: Landscape_3
-    2300012: Landscape_5
-    2300014: Landscape_7
+    2300002: Polygon_Reduction_2
+    2300004: Polygon_Reduction_2_2
+    2300006: Polygon_Reduction_2_3
+    2300008: Polygon_Reduction_2_4
+    2300010: Polygon_Reduction_2_5
+    2300012: terrain
+    2300014: Polygon_Reduction_2_6
     3300000: Landscape_2
-    3300002: Landscape_4
-    3300004: Landscape_6
-    3300006: Landscape_8
-    3300008: Landscape
-    3300010: Landscape_3
-    3300012: Landscape_5
-    3300014: Landscape_7
-    4300000: Landscape_2
-    4300002: Landscape_4
-    4300004: Landscape_6
-    4300006: Landscape_8
-    4300008: Landscape
-    4300010: Landscape_3
-    4300012: Landscape_5
-    4300014: Landscape_7
+    3300002: Polygon_Reduction_2
+    3300004: Polygon_Reduction_2_2
+    3300006: Polygon_Reduction_2_3
+    3300008: Polygon_Reduction_2_4
+    3300010: Polygon_Reduction_2_5
+    3300012: terrain
+    3300014: Polygon_Reduction_2_6
+    4300000: Polygon_Reduction_2
+    4300002: Polygon_Reduction_2_2
+    4300004: Landscape_2
+    4300006: Polygon_Reduction_2_3
+    4300008: Polygon_Reduction_2_4
+    4300010: Polygon_Reduction_2_5
+    4300012: terrain
+    4300014: Polygon_Reduction_2_6
   externalObjects: {}
   materials:
     importMaterials: 1
