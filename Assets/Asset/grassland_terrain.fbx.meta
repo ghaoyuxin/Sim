@@ -18,6 +18,7 @@ ModelImporter:
     100024: Landscape_7
     100026: Landscape_8
     100028: Landscape_9
+    100030: CINEMA_4D_Editor
     400000: Cap_1
     400002: Cap_2
     400004: Extrude
@@ -33,6 +34,8 @@ ModelImporter:
     400024: Landscape_7
     400026: Landscape_8
     400028: Landscape_9
+    400030: CINEMA_4D_Editor
+    2000000: CINEMA_4D_Editor
     2100000: No Name
     2100002: Mat.4
     2100004: Mat.3
