@@ -112,6 +112,41 @@
             <e p="ScreenColorTransition.shader" t="Include" />
           </e>
         </e>
+        <e p="Fantasy Skybox FREE" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="GE_FantasySkyboxFREE_Demo.cs" t="Include" />
+              <e p="GE_FantasySkyboxFREE_UIs.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Fog and Ambient references.txt" t="Include" />
+          <e p="readme.txt" t="Include" />
+        </e>
+        <e p="FarlandSkies" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Player" t="Include">
+                <e p="FPSWalkerEnhanced.cs" t="Include" />
+                <e p="SmoothMouseLook.cs" t="Include" />
+              </e>
+              <e p="Skybox" t="Include">
+                <e p="SkyboxChanger.cs" t="Include" />
+                <e p="SkyboxRotator.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="GE Common Assets" t="Include">
+          <e p="GE Toggle Full Screen" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="GE_ToggleFullScreenUI.cs" t="Include" />
+            </e>
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="GE_UIResponder.cs" t="Include" />
+          </e>
+        </e>
         <e p="Low_Poly_Foliage_Pack_001" t="Include">
           <e p="PLEASE READ!.txt" t="Include" />
         </e>
