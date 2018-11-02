@@ -44,6 +44,30 @@ ModelImporter:
     100076: Rectangle_8
     100078: Rectangle_9
     100080: Sphere
+    100082: Cone
+    100084: Cone_1
+    100086: Cone_10
+    100088: Cone_10_2
+    100090: Cone_11
+    100092: Cone_11_2
+    100094: Cone_12
+    100096: Cone_12_2
+    100098: Cone_13
+    100100: Cone_13_2
+    100102: Cone_14
+    100104: Cone_14_2
+    100106: Cone_2
+    100108: Cone_3
+    100110: Cone_4
+    100112: Cone_5
+    100114: Cone_6
+    100116: Cone_7
+    100118: Cone_8
+    100120: Cone_9
+    100122: Cone_9_2
+    100124: Sphere_1
+    100126: Cone_6_2
+    100128: Null
     400000: Cap_1
     400002: Cap_1_2
     400004: Cap_1_3
@@ -85,6 +109,30 @@ ModelImporter:
     400076: Rectangle_8
     400078: Rectangle_9
     400080: Sphere
+    400082: Cone
+    400084: Cone_1
+    400086: Cone_10
+    400088: Cone_10_2
+    400090: Cone_11
+    400092: Cone_11_2
+    400094: Cone_12
+    400096: Cone_12_2
+    400098: Cone_13
+    400100: Cone_13_2
+    400102: Cone_14
+    400104: Cone_14_2
+    400106: Cone_2
+    400108: Cone_3
+    400110: Cone_4
+    400112: Cone_5
+    400114: Cone_6
+    400116: Cone_7
+    400118: Cone_8
+    400120: Cone_9
+    400122: Cone_9_2
+    400124: Sphere_1
+    400126: Cone_6_2
+    400128: Null
     2100000: Mat.2
     2100002: Mat.1
     2100004: Mat
@@ -119,6 +167,23 @@ ModelImporter:
     2300056: Landscape_1
     2300058: Landscape_2
     2300060: Sphere
+    2300062: Cone
+    2300064: Cone_1
+    2300066: Cone_10_2
+    2300068: Cone_11_2
+    2300070: Cone_12_2
+    2300072: Cone_13_2
+    2300074: Cone_14_2
+    2300076: Cone_2
+    2300078: Cone_3
+    2300080: Cone_4
+    2300082: Cone_5
+    2300084: Cone_6
+    2300086: Cone_7
+    2300088: Cone_8
+    2300090: Cone_9_2
+    2300092: Sphere_1
+    2300094: Cone_6_2
     3300000: Cap_1
     3300002: Cap_1_2
     3300004: Cap_1_3
@@ -150,6 +215,23 @@ ModelImporter:
     3300056: Landscape_1
     3300058: Landscape_2
     3300060: Sphere
+    3300062: Cone
+    3300064: Cone_1
+    3300066: Cone_10_2
+    3300068: Cone_11_2
+    3300070: Cone_12_2
+    3300072: Cone_13_2
+    3300074: Cone_14_2
+    3300076: Cone_2
+    3300078: Cone_3
+    3300080: Cone_4
+    3300082: Cone_5
+    3300084: Cone_6
+    3300086: Cone_7
+    3300088: Cone_8
+    3300090: Cone_9_2
+    3300092: Sphere_1
+    3300094: Cone_6_2
     4300000: Sphere
     4300002: Landscape_2
     4300004: Landscape_1
@@ -181,6 +263,23 @@ ModelImporter:
     4300056: Extrude
     4300058: Cap_1_9
     4300060: Cap_2_9
+    4300062: Cone_14_2
+    4300064: Cone_13_2
+    4300066: Cone_12_2
+    4300068: Cone_11_2
+    4300070: Cone_10_2
+    4300072: Cone_9_2
+    4300074: Cone_8
+    4300076: Cone_7
+    4300078: Cone_6
+    4300080: Cone_5
+    4300082: Cone_4
+    4300084: Cone_3
+    4300086: Cone_2
+    4300088: Cone_1
+    4300090: Cone
+    4300092: Sphere_1
+    4300094: Cone_6_2
   externalObjects: {}
   materials:
     importMaterials: 1
