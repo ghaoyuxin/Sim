@@ -19,6 +19,7 @@ ModelImporter:
     100026: Landscape_8
     100028: Landscape_9
     100030: CINEMA_4D_Editor
+    100032: River
     400000: Cap_1
     400002: Cap_2
     400004: Extrude
@@ -35,6 +36,7 @@ ModelImporter:
     400026: Landscape_8
     400028: Landscape_9
     400030: CINEMA_4D_Editor
+    400032: River
     2000000: CINEMA_4D_Editor
     2100000: No Name
     2100002: Mat.4
@@ -42,6 +44,7 @@ ModelImporter:
     2100006: Mat.1
     2100008: Mat.2
     2100010: Mat
+    2100012: Mat.5
     2300000: Cap_1
     2300002: Cap_2
     2300004: Extrude
@@ -56,6 +59,7 @@ ModelImporter:
     2300022: Landscape_7
     2300024: Landscape_8
     2300026: Landscape_9
+    2300028: River
     3300000: Cap_1
     3300002: Cap_2
     3300004: Extrude
@@ -70,6 +74,7 @@ ModelImporter:
     3300022: Landscape_7
     3300024: Landscape_8
     3300026: Landscape_9
+    3300028: River
     4300000: Extrude
     4300002: Cap_1
     4300004: Cap_2
@@ -84,6 +89,7 @@ ModelImporter:
     4300022: Landscape_3
     4300024: Landscape_2
     4300026: Landscape
+    4300028: River
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
