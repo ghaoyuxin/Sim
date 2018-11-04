@@ -29,7 +29,6 @@
             </e>
           </e>
         </e>
-        <e p="changeSkybox.cs" t="Include" />
         <e p="Colr" t="Include">
           <e p="DemoScenes" t="Include">
             <e p="Standard Assets" t="Include">
@@ -372,6 +371,9 @@
               </e>
             </e>
           </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="changeSkybox.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
           <e p="Characters" t="Include">
