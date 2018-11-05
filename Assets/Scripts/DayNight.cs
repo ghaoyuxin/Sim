@@ -23,7 +23,7 @@ public class DayNight : MonoBehaviour {
 		skyMat = GetComponent<Renderer>().sharedMaterial;
 		sunOrbit = sunTilt.GetChild(0);
 
-		sunTilt.eulerAngles = new Vector3(Mathf.Clamp(latitudeAngle,0,90),0,0); //set the sun tilt
+		sunTilt.eulerAngles = new Vector3(Mathf.Clamp(latitudeAngle,0,90),60,0); //set the sun tilt
 
 		Transition();
 
@@ -37,7 +37,7 @@ public class DayNight : MonoBehaviour {
 	void Update () {
 
 		//Transition();
-		print(sunOrbit.localEulerAngles.y);
+		//print(sunOrbit.localEulerAngles.y);
 
 		
 		if (day2Night)

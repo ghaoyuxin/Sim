@@ -117,7 +117,6 @@ GameObject:
   - component: {fileID: 4238200649969806}
   - component: {fileID: 33162942512571690}
   - component: {fileID: 23966070530215704}
-  - component: {fileID: 114885035381588004}
   - component: {fileID: 114599832886830486}
   m_Layer: 0
   m_Name: SkyDome
@@ -161,8 +160,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1934279267517970}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 15, y: 15, z: 15}
+  m_LocalPosition: {x: -160, y: -99, z: 0}
+  m_LocalScale: {x: 16.050001, y: 16.050001, z: 16.050001}
   m_Children:
   - {fileID: 4555503924426140}
   - {fileID: 4520475606018202}
@@ -407,19 +406,3 @@ MonoBehaviour:
   sunTilt: {fileID: 4520475606018202}
   day2Night: 0
   night2Day: 0
---- !u!114 &114885035381588004
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1934279267517970}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a58e52bd5f6612b4587f282ec79dd75f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  secondsPerMinute: 0.01
-  startTime: 12
-  showGUI: 1
-  latitudeAngle: 45
-  sunTilt: {fileID: 4520475606018202}
