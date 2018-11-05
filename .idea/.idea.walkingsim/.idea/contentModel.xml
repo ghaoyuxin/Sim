@@ -147,6 +147,20 @@
         <e p="Low_Poly_Foliage_Pack_001" t="Include">
           <e p="PLEASE READ!.txt" t="Include" />
         </e>
+        <e p="LowPolyWater_Pack" t="Include">
+          <e p="LowPoly Island" t="Include">
+            <e p="Credits.txt" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GeneratePlane.cs" t="Include" />
+            </e>
+            <e p="LowPolyWater.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="WaterShaded.shader" t="Include" />
+          </e>
+        </e>
         <e p="MainTreesSet_v1" t="Include">
           <e p="changelog.txt" t="Include" />
         </e>
