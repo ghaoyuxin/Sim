@@ -373,8 +373,13 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="ChangeDayNight.cs" t="Include" />
           <e p="changeSkybox.cs" t="Include" />
           <e p="changeSkybox2.cs" t="Include" />
+          <e p="DayNight.cs" t="Include" />
+        </e>
+        <e p="SimpleSky" t="Include">
+          <e p="Readme.txt" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
           <e p="Characters" t="Include">
