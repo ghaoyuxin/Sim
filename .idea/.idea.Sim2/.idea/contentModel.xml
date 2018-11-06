@@ -144,6 +144,20 @@
             <e p="GE_UIResponder.cs" t="Include" />
           </e>
         </e>
+        <e p="Graves_Set_-_low_poly" t="Include">
+          <e p="neuro_graves_3ds" t="Include">
+            <e p="Readme.txt" t="Include" />
+          </e>
+          <e p="neuro_graves_3ds 2" t="Include">
+            <e p="Readme.txt" t="Include" />
+          </e>
+          <e p="neuro_graves_max" t="Include">
+            <e p="Readme.txt" t="Include" />
+          </e>
+          <e p="neuro_graves_obj" t="Include">
+            <e p="Readme.txt" t="Include" />
+          </e>
+        </e>
         <e p="Low_Poly_Foliage_Pack_001" t="Include">
           <e p="PLEASE READ!.txt" t="Include" />
         </e>
