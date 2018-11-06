@@ -400,6 +400,7 @@
             </e>
           </e>
         </e>
+        <e p="QuitGame.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="ChangeDayNight.cs" t="Include" />
           <e p="changeSkybox.cs" t="Include" />
