@@ -21,6 +21,7 @@ ModelImporter:
     100030: terrain
     100032: //RootNode
     100034: Polygon_Reduction_2_6
+    100036: Polygon_Reduction_2_7
     400000: Displacer
     400002: Landscape
     400004: Landscape_2
@@ -39,6 +40,7 @@ ModelImporter:
     400030: terrain
     400032: //RootNode
     400034: Polygon_Reduction_2_6
+    400036: Polygon_Reduction_2_7
     2100000: Mat.3
     2100002: Mat
     2100004: Mat.1
@@ -50,6 +52,7 @@ ModelImporter:
     2300010: Polygon_Reduction_2_5
     2300012: terrain
     2300014: Polygon_Reduction_2_6
+    2300016: Polygon_Reduction_2_7
     3300000: Landscape_2
     3300002: Polygon_Reduction_2
     3300004: Polygon_Reduction_2_2
@@ -58,6 +61,7 @@ ModelImporter:
     3300010: Polygon_Reduction_2_5
     3300012: terrain
     3300014: Polygon_Reduction_2_6
+    3300016: Polygon_Reduction_2_7
     4300000: Polygon_Reduction_2
     4300002: Polygon_Reduction_2_2
     4300004: Landscape_2
@@ -66,6 +70,7 @@ ModelImporter:
     4300010: Polygon_Reduction_2_5
     4300012: terrain
     4300014: Polygon_Reduction_2_6
+    4300016: Polygon_Reduction_2_7
   externalObjects: {}
   materials:
     importMaterials: 1

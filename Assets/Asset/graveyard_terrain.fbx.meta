@@ -68,6 +68,9 @@ ModelImporter:
     100124: Sphere_1
     100126: Cone_6_2
     100128: Null
+    100130: cave
+    100132: Landscape_3
+    100134: Landscape_3_1
     400000: Cap_1
     400002: Cap_1_2
     400004: Cap_1_3
@@ -133,6 +136,9 @@ ModelImporter:
     400124: Sphere_1
     400126: Cone_6_2
     400128: Null
+    400130: cave
+    400132: Landscape_3
+    400134: Landscape_3_1
     2100000: Mat.2
     2100002: Mat.1
     2100004: Mat
@@ -184,6 +190,8 @@ ModelImporter:
     2300090: Cone_9_2
     2300092: Sphere_1
     2300094: Cone_6_2
+    2300096: Landscape_3
+    2300098: Landscape_3_1
     3300000: Cap_1
     3300002: Cap_1_2
     3300004: Cap_1_3
@@ -232,6 +240,8 @@ ModelImporter:
     3300090: Cone_9_2
     3300092: Sphere_1
     3300094: Cone_6_2
+    3300096: Landscape_3
+    3300098: Landscape_3_1
     4300000: Sphere
     4300002: Landscape_2
     4300004: Landscape_1
@@ -280,6 +290,8 @@ ModelImporter:
     4300090: Cone
     4300092: Sphere_1
     4300094: Cone_6_2
+    4300096: Landscape_3
+    4300098: Landscape_3_1
   externalObjects: {}
   materials:
     importMaterials: 1
